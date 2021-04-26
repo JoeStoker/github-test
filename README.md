@@ -6,4 +6,4 @@ commit to github
 
 another commit
 
-and another one
+git push remote-github master
